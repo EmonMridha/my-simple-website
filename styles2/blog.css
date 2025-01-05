@@ -2,4 +2,7 @@ div{
     background-color:tomato;
     padding:20px;
     border-radius: 20px;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    margin:10px;
 }
